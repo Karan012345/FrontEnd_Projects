@@ -1,16 +1,51 @@
-# React + Vite
+Frontend Projects – React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of small to medium frontend projects built using React.js.
+These projects demonstrate my understanding of React fundamentals, state management, component-based UI, and real-world frontend logic.
 
-Currently, two official plugins are available:
+ Projects Included
+1] Password Generator
+A web app that generates secure, random passwords based on user-selected options.
+Features
+Custom password length
+Include numbers
+Include special characters
+One-click copy to clipboard
+Tech: React, JavaScript, Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2️] Counter App
+A simple counter application demonstrating React state and event handling.
+Features
+Increase and decrease counter
+Prevents invalid values
+Live UI updates
+Tech: React, JavaScript
 
-## React Compiler
+3️] Background Color Changer
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+An interactive app that changes the background color based on user selection.
+Features
+Multiple color options
+Instant UI updates
+Responsive layout
+Tech: React, JavaScript, CSS
 
-## Expanding the ESLint configuration
+4] Calculator
+A basic calculator that performs arithmetic operations.
+Features
+Addition, subtraction, multiplication, division
+Clear and reset
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Real-time display updates
+Tech: React, JavaScript
+
+ Q]What This Repository Shows
+This repository demonstrates:
+Use of React Hooks (useState, useEffect)
+Component-based architecture
+Event handling and controlled inputs
+Clean UI development
+Practical frontend problem solving
+How to Run Any Project Locally
+npm install
+npm run dev
